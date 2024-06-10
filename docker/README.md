@@ -139,6 +139,7 @@ Please check [this](./examples/README.md) for usage guide of the docker image.
 Releasing the Docker Official Image
 -----------------------------------
 
+- Docker Official Images for Apache Kafka will be supported from AK versions 3.7.0 onwards.
 - This is the recommended way to release docker official image.
 - Ensure these steps are being run for a particular version, only once the AK release process for that version has been completed.
 
